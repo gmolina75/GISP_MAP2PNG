@@ -44,6 +44,7 @@ Copiar código
 <br>
 <b>Tecnologías utilizadas</b>
 <br>
+
 Lenguaje: C#
 Interfaz gráfica: Windows Forms
 Biblioteca de mapas: GMap.NET
@@ -56,7 +57,7 @@ Captura la vista del mapa y guarda la imagen en la ruta especificada.
 Opcionalmente, cierra la aplicación automáticamente después de guardar la imagen.
 <br>
 <b>Contribuciones</b>
-
+<br>
 Las contribuciones son bienvenidas. Si encuentras errores o tienes sugerencias para mejorar la funcionalidad, no dudes en abrir un issue o enviar un pull request.
 
 <br><br>
