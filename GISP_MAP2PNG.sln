@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GISP_MAP2PNG", "GISP_MAP2PNG\GISP_MAP2PNG.csproj", "{AE65A299-DC67-4686-8C1F-1A1C911F3AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATAMAP", "X:\Include\dotnet\DATAMAPPER\DATAMAPPER\DATAMAP.csproj", "{863A8456-0C2C-48E6-A617-BB99BDBDA1E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE65A299-DC67-4686-8C1F-1A1C911F3AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE65A299-DC67-4686-8C1F-1A1C911F3AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE65A299-DC67-4686-8C1F-1A1C911F3AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE65A299-DC67-4686-8C1F-1A1C911F3AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863A8456-0C2C-48E6-A617-BB99BDBDA1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863A8456-0C2C-48E6-A617-BB99BDBDA1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863A8456-0C2C-48E6-A617-BB99BDBDA1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863A8456-0C2C-48E6-A617-BB99BDBDA1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD6C235F-F7D2-436F-9329-B2CCCF43FEED}
+	EndGlobalSection
+EndGlobal
