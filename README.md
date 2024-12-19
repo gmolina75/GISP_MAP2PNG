@@ -1,4 +1,4 @@
-Mapa con Marcador a  Imagen
+<b>Mapa con Marcador a  Imagen</b>
 
 Este proyecto es una aplicación de escritorio desarrollada en C# y Windows Forms que utiliza la biblioteca GMap.NET para trabajar con mapas interactivos. La aplicación permite establecer marcadores en un mapa basándose en coordenadas geográficas proporcionadas como argumentos de entrada y captura la vista actual del mapa en una imagen, que se guarda en el sistema de archivos.
 
