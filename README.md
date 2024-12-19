@@ -2,8 +2,9 @@
 
 Este proyecto es una aplicación de escritorio desarrollada en C# y Windows Forms que utiliza la biblioteca GMap.NET para trabajar con mapas interactivos. 
 La aplicación permite establecer marcadores en un mapa basándose en coordenadas geográficas proporcionadas como argumentos de entrada y captura la vista actual del mapa en una imagen, que se guarda en el sistema de archivos.
-
-<b>Características</b><br>
+<br>
+<b>Características</b>
+<br>
 
 Integración con GMap.NET: Utiliza el proveedor de mapas de Google para mostrar y personalizar mapas interactivos.
 Personalización de marcadores: Añade marcadores en una posición específica utilizando coordenadas geográficas.
@@ -20,10 +21,15 @@ Configuración y Uso
 Clona el repositorio:
 bash
 Copiar código
-git clone https://github.com/tuusuario/GISP_MAP2PNG
+git clone https://github.com/gmolina75/GISP_MAP2PNG
+<br>
 Abre el proyecto en Visual Studio.
+<br>
 Instala las dependencias necesarias:
+<br>
 Asegúrate de incluir la referencia a la biblioteca GMap.NET.
+
+<br>
 Proporciona los argumentos al ejecutar la aplicación:
 Formato:
 scss
@@ -35,7 +41,7 @@ Copiar código
 /-2.1551116/-79.8907303/C:\temp\mapa.png/autoclose
 
 <br>
-Tecnologías utilizadas
+<b>Tecnologías utilizadas</b>
 <br>
 Lenguaje: C#
 Interfaz gráfica: Windows Forms
@@ -48,10 +54,11 @@ Agrega un marcador en la posición indicada.
 Captura la vista del mapa y guarda la imagen en la ruta especificada.
 Opcionalmente, cierra la aplicación automáticamente después de guardar la imagen.
 <br>
-Contribuciones
+<b>Contribuciones</b>
+
 Las contribuciones son bienvenidas. Si encuentras errores o tienes sugerencias para mejorar la funcionalidad, no dudes en abrir un issue o enviar un pull request.
 
 <br><br>
-Licencia
+<b>Licencia</b>
 Este proyecto está licenciado bajo la MIT License. Consulta el archivo LICENSE para más detalles.
 
