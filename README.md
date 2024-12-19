@@ -2,13 +2,15 @@
 
 Este proyecto es una aplicación de escritorio desarrollada en C# y Windows Forms que utiliza la biblioteca GMap.NET para trabajar con mapas interactivos. La aplicación permite establecer marcadores en un mapa basándose en coordenadas geográficas proporcionadas como argumentos de entrada y captura la vista actual del mapa en una imagen, que se guarda en el sistema de archivos.
 
-Características
+<b>Características</b><br>
+
 Integración con GMap.NET: Utiliza el proveedor de mapas de Google para mostrar y personalizar mapas interactivos.
 Personalización de marcadores: Añade marcadores en una posición específica utilizando coordenadas geográficas.
 Captura de mapas: Genera una imagen del mapa visible con los marcadores añadidos.
 Modo automático: Cierra la aplicación automáticamente tras guardar la imagen, si se especifica en los argumentos.
 Validación robusta de entrada: Maneja errores relacionados con argumentos insuficientes o inválidos.
-Requisitos
+<br>
+<b>Requisitos</b><br>
 .NET Framework o .NET Core (compatible con la versión del proyecto).
 Biblioteca GMap.NET.
 Sistema operativo Windows.
@@ -42,6 +44,7 @@ Captura la vista del mapa y guarda la imagen en la ruta especificada.
 Opcionalmente, cierra la aplicación automáticamente después de guardar la imagen.
 Contribuciones
 Las contribuciones son bienvenidas. Si encuentras errores o tienes sugerencias para mejorar la funcionalidad, no dudes en abrir un issue o enviar un pull request.
+
 
 Licencia
 Este proyecto está licenciado bajo la MIT License. Consulta el archivo LICENSE para más detalles.
